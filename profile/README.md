@@ -4,6 +4,6 @@ Welcome to a collection of research-related resources created and compiled by me
 
 ## Research-related Resources
 
-### 💾 Useful code
+### 💾 Code
 
 - [Nested cross-validation with SetFit](https://github.com/bth-dipt-research/SVAR/tree/main/agreementclassifier) (now with less memory leakage 🥳)
