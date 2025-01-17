@@ -7,6 +7,6 @@ Welcome to a collection of research-related resources created and compiled by me
 ### 💾 Code
 
 
-- [Nested cross-validation with SetFit](https://github.com/bth-dipt-research/SVAR/tree/main/agreementclassifier) (now with less memory leakage 🥳)
+- [Nested cross-validation with SetFit](https://github.com/bth-dipt-research/SVAR/tree/main/setfitclassifier) (now with less memory leakage 🥳)
 
     SetFit is a few-shot fine-tuning framework for sentence transformers. It is especially useful with little labeled data (< 100 data points). See paper here: [Efficient Few-Short Learning Without Prompts](https://arxiv.org/abs/2209.11055). The code we provide implements nested cross-validation to optimize the hyper-parameters *and* estimate the performance of the classifier.
